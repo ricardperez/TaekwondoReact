@@ -1,0 +1,30 @@
+{
+	"version": "1.0",
+	"data":
+	[
+		{
+			"title": "sogui_kisul",
+			"data-file": "data/kibon_kisul/sogui_kisul.json"
+		},
+		{
+			"title": "maki",
+			"data-file": "data/kibon_kisul/maki.json"
+		},
+		{
+			"title": "gong_kiok",
+			"data-file": "data/kibon_kisul/gong_kiok.json"
+		},
+		{
+			"title": "pum",
+			"data-file": "data/kibon_kisul/pum.json"
+		},
+		{
+			"title": "bal_kisul",
+			"data-file": "data/kibon_kisul/bal_kisul.json"
+		},
+		{
+			"title": "tuio",
+			"data-file": "data/kibon_kisul/tuio.json"
+		}
+	]
+}

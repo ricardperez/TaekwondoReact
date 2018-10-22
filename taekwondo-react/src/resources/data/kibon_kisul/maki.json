@@ -1,0 +1,33 @@
+{
+	"version": "1.0",
+	"data":
+	[
+		{
+			"dan": "1st",
+			"data":
+			{
+				"images_path": "resources/images/taekwondo/make/1Dan/",
+				"names": [
+					"are_maki",
+					"momtong_an_maki",
+					"momtong_maki",
+					"olgul_maki",
+					"jansonnal_momtong_bakat_maki",
+					"sonnal_momtong_maki",
+					"momtong_bakat_maki",
+					"olgul_bakat_maki",
+					"gechio_are_maki",
+					"batagson_momtong_maki",
+					"batagson_momtong_an_maki",
+					"sonnal_are_maki",
+					"gechio_momtong_maki",
+					"goduro_batagson_momtong_an_maki",
+					"okgoro_are_maki",
+					"jansonnal_momtong_yop_maki",
+					"goduro_momtong_maki",
+					"goduro_are_maki"
+				]
+			}
+		}
+	]
+}

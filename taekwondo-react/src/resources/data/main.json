@@ -1,0 +1,14 @@
+{
+	"version": "1.0",
+	"data":
+	[
+		{
+			"title": "kibon_kisul",
+			"data-file": "data/kibon_kisul/main.json"
+		},
+		{
+			"title": "pumse",
+			"data-file": "data/pumse/main.json"
+		}
+	]
+}
